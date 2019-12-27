@@ -5,7 +5,7 @@
 - TG1907
 - Objetivo: Segmentación del dosel arbóreo
 - @author: David Felipe Cuellar Diaz
-- Implementación de algoritmo de degmentación: KMeans.
+- Implementación de algoritmo de segmentación: KMeans.
 - Class: segKMeans.py
 - Test: testkmeans.py
 - RGB image: IMG_170805_165709_0138_RGB.JPG
